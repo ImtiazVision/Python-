@@ -204,5 +204,12 @@
 # ""
 # 0
 # None
-
 # str(x)
+""" Quiz """
+# what are the primitive types in python?
+# 1. Strings
+# 2. Numbers
+# 3. Boolean 
+# fruit = "Apple"
+# print(fruit[1:-1])
+# print(bool("False"))
