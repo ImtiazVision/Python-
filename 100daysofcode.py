@@ -83,3 +83,12 @@
 # print(f"Each person should pay: ${final_amount}")
 #Format the result to 2 decimal places = 33.60
 #Tip: You might need to do some research in Google to figure out how to do this.
+
+# 🚨 Don't change the code below 👇
+# number = int(input("Which number do you want to check? "))
+# 🚨 Don't change the code above 👆
+
+# if number % 2 == 0:
+	# print("This is a even number")
+# else:
+	# print("You have entered an odd number")
