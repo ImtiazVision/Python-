@@ -92,3 +92,19 @@
 	# print("This is a even number")
 # else:
 	# print("You have entered an odd number")
+
+''' Multiple if else statement '''
+
+# print("Welcome to the show")
+# height = int(input("Please enter height in cm "))
+# if height >= 100:
+#     print("You are approved to ride")
+#     age = int(input("Please enter your age "))
+#     if age > 5:
+#         print("Your ticket cost $5")
+#     elif age > 15:
+#         print("Your ticket costs $15")
+#     else:
+#         print("Your ticket cost $25")
+# else:
+#     print("You are not eligible")
